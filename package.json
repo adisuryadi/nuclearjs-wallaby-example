@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-core": "^5.8.25",
@@ -19,8 +19,10 @@
   "dependencies": {
     "babel-runtime": "^5.8.25",
     "core-js": "^1.2.2",
+    "history": "^1.12.5",
     "nuclear-js": "^1.1.1",
-    "react": "^0.13.3",
-    "react-router": "^0.13.4"
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-router": "^1.0.0-rc3"
   }
 }
